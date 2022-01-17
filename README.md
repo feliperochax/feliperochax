@@ -1,7 +1,7 @@
 ### Olá, eu sou o Felipe Rocha! 👋
 
 - 🔭 Em transição de carreira para a área de Desenvolvimento Mobile Android
-- 🌱 Contate-me no e-mail: dev.feliperocha@gmail.com
+- 🌱 Contate-me no e-mail: fssrocha@gmail.com
 - 😀 Disponível para trabalhar em projetos de desenvolvimento.
 
  <div>
